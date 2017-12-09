@@ -3,5 +3,24 @@
     "@google-cloud/language": "^1.1.0",
     "@google-cloud/speech": "^0.11.0",
     "express": "^4.16.2"
-  }
+  },
+  "name": "VoicePi",
+  "description": "- Python scripts to be used with Google Voice on Raspberry Pi. These are meant to provide a user with voice control capabilities for a smart mirror webapp driven by React/ASP.NET core.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myao-mirror/mirror-audio-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myao-mirror/mirror-audio-ai/issues"
+  },
+  "homepage": "https://github.com/Myao-mirror/mirror-audio-ai#readme"
 }
